@@ -2,6 +2,8 @@
 
 A command-line tool for checking and installing software dependencies with customizable installers and cross-platform support.
 
+npm package url: https://www.npmjs.com/package/readymate?activeTab=readme
+
 ## Features
 
 - Check if specific software is installed on your system
